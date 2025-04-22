@@ -1,1 +1,1 @@
-# Atividade06-ExplorandoAPIsP-blicas
+# Atividade06-ExplorandoAPIsPublicas
